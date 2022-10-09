@@ -7,7 +7,7 @@ image:
   feature: About_img.png
 manager7:
   name: Tharun Mahesh
-  image: manager7.jpg
+  image: manager7.png
   fblink: https://www.facebook.com/tharun.mahesh.90/
   instalink: https://www.instagram.com/tharun_mah3sh/
 manager8:
